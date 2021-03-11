@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(SnackBarDemo());
+void main() => runApp(MyApp());
 
-class SnackBarDemo extends StatelessWidget {
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
