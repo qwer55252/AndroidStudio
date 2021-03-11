@@ -42,7 +42,7 @@ class OrientationList extends StatelessWidget {
               return Center(
                 child: Text(
                   'Grid list $index', // 화면에 띄울 각 Grid list의 text
-                  style: Theme.of(context).textTheme.headline, // headline에 맞는 필체를 사용해줌
+                  style: Theme.of(context).textTheme.headline, // Text style 코드/headline에 맞는 필체를 사용해줌
                 ),
               );
             }),
