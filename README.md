@@ -7,4 +7,4 @@
 
  - SnackBar
  
- <img width="30%" scr="https://user-images.githubusercontent.com/59640320/110899289-26fc0f00-8344-11eb-994b-15ca7c883dec.gif"/>
+ <img width="30%" src="https://user-images.githubusercontent.com/59640320/110899289-26fc0f00-8344-11eb-994b-15ca7c883dec.gif"/>
